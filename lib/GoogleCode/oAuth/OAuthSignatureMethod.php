@@ -1,6 +1,6 @@
 <?php
 
-namespace GoogleCodeOAuth\oAuth;
+namespace GoogleCode\oAuth;
 
 /**
  * A class for implementing a Signature Method

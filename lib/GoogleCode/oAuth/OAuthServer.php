@@ -1,6 +1,6 @@
 <?php
 
-namespace GoogleCodeOAuth\oAuth;
+namespace GoogleCode\oAuth;
 
 class OAuthServer
 {

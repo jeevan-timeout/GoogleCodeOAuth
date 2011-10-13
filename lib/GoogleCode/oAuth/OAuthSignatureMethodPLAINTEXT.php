@@ -1,6 +1,6 @@
 <?php
 
-namespace GoogleCodeOAuth\oAuth;
+namespace GoogleCode\oAuth;
 
 /**
  * The PLAINTEXT method does not provide any security protection and SHOULD only be used

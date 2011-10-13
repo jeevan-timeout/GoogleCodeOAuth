@@ -1,5 +1,5 @@
 <?php
-namespace GoogleCodeOAuth\oAuth;
+namespace GoogleCode\oAuth;
 
 /**
  * Generic exception class
